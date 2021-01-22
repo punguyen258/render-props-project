@@ -1,6 +1,6 @@
 import React from 'react';
-import Hello from './Hello';
-import List from './List';
+import Hello from './components/Hello';
+import List from './components/List';
 
 const App = () => {
   const bookNNA = ['Hạ đỏ', 'Mắt biếc', 'Tôi thấy hoa vàng'];
